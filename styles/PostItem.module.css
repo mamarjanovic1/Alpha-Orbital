@@ -1,0 +1,30 @@
+.link {
+    float: right;
+    color: rgb(80, 120, 180);
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.card {
+    background-color: rgba(3, 3, 3, 0.92);
+    ;
+    color: white;
+    padding: 30px 30px;
+    margin: 20px auto 0;
+    width: 60%;
+    display: flex;
+  }
+
+.card_content {
+    position: relative;
+    flex: 1;
+    margin-left: 20px;
+  }
+  
+  .card_content:first-child {
+    margin-right: 20px;
+  }
+  
+  .cursor {
+    cursor: pointer;
+  }

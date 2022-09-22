@@ -1,0 +1,20 @@
+.container {
+  padding: 2rem;
+}
+
+.total_article_num {
+  width: 60%;
+  margin: 20px auto 0;
+  color: white;
+  text-align: end;
+}
+
+.search_input {
+  width: 60%;
+  margin: 0 20%;
+  padding: 12px 20px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
